@@ -1,0 +1,18 @@
+[submodule "deps/redgrid"]
+	path = deps/redgrid
+	url = https://github.com/JacobVorreuter/redgrid.git
+[submodule "deps/nsync"]
+	path = deps/nsync
+	url = https://github.com/JacobVorreuter/nsync.git
+[submodule "deps/meck"]
+	path = deps/meck
+	url = https://github.com/eproxus/meck.git
+[submodule "deps/mochiweb"]
+	path = deps/mochiweb
+	url = https://github.com/DBarney/mochiweb.git
+[submodule "deps/redo"]
+	path = deps/redo
+	url = git://github.com/DBarney/redo.git
+[submodule "deps/cowboy"]
+	path = deps/cowboy
+	url = https://github.com/extend/cowboy.git
